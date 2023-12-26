@@ -4,7 +4,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-ahmad04&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-ahmad04" /> </p>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p> -->
 
 - 🔭 I’m currently working on **Full-Stack/MERN Social Media App**
 
@@ -16,6 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing](https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p>
 - ⚡ Fun fact **I am funny😂**
 
 <h3 align="left">Connect with me:</h3>

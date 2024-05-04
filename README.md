@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-ahmad04&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-ahmad04" /> </p>
 
-- 🔭 I’m currently working in CodeGarage Tech pvt ltd. as **Full-Stack Developer/ MERN-Stack (MongoDB, Express.js, React.js, Node.js) Developer**
+- 🔭 I’m currently working in CodeGarage Tech pvt ltd. as **Full-Stack Developer/ MERN-Stack (MongoDB, Express.js, React.js, Node.js)**
 
 - 🌱 I’m currently learning **Ruby and Rails**
 

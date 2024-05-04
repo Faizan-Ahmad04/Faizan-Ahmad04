@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-Stack/MERN Social Media App**
 
-- 🌱 I’m currently working in CodeGrage Tech pvt.lt. as **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I’m currently working in CodeGrage Tech pvt ltd. as **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
 
 - 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, C++**
 

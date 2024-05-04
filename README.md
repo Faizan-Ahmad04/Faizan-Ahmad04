@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby and Rails**
 
-- 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Ruby, Rails Express.js, React.js, Node.js, C++**
+- 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Ruby, Rails, Express.js, React.js, Node.js, C++**
 
 - 📫 How to reach me **faizanalvi093@gmail.com**
 

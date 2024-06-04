@@ -16,7 +16,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing](https://docs.google.com/document/d/1YTlS8bvmlEOd2ALdqzFBs-L_G1NE4gQ1wasmY2ISg5A/edit?usp=sharing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p>
-- ⚡ Fun fact **I am funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

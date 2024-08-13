@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png)
 <h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
 <h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
 

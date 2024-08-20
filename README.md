@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in CodeGarage Tech pvt ltd. as **Full-Stack Developer/ MERN-Stack (MongoDB, Express.js, React.js, Node.js)**
 
-- 🌱 I’m currently learning **Ruby and Rails**
+- 🌱 I’m currently learning **Rails and Docker**
 
 - 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Ruby, Rails, Express.js, React.js, Node.js, C++**
 

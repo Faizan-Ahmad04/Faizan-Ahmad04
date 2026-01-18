@@ -55,14 +55,14 @@ Software Engineer with experience working on backend and full-stack systems usin
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faizan-ahmad04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=faizan-ahmad04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ahmad04&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Faizan-Ahmad04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ahmad04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ahmad04&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faizan-ahmad04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Faizan-Ahmad04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -72,6 +72,6 @@ Software Engineer with experience working on backend and full-stack systems usin
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faizan-ahmad04&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Faizan-Ahmad04&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

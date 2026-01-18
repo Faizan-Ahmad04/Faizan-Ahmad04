@@ -55,7 +55,14 @@ Software Engineer with experience working on backend and full-stack systems usin
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Faizan-Ahmad04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Ahmad04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ahmad04&theme=dark&hide_border=false&v=1" />
+</p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ahmad04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ahmad04&theme=dark&hide_border=false&layout=compact)
 
